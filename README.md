@@ -1,4 +1,4 @@
-# Numerical Analysis (MAT/08) course
+# Numerical Mathematics (MAT/08) course
 
 ## Main topics 
 This course covered fundamental and advanced topics in numerical methods, including:
