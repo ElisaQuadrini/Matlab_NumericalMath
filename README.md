@@ -33,3 +33,16 @@ The linear system must be solved using direct methods:
 1. LU factorization (`lu`)  
 2. Cholesky factorization (`chol`)  
 
+## Richardson_PCG folder 
+Here is another example of what I developed during this course, including a short overview of the iterative methods studied and applied in this part of the course: 
+
+1. The Richardson method is one of the iterative solvers for linear systems: at each step, the solution is updated along the residual direction, scaled by a parameter α.  
+It can be used in two versions:
+- **Stationary**: with a fixed α.  
+- **Dynamic**: with an optimal α chosen at each iteration (equivalent to the gradient method).  
+While conceptually simple, its convergence can be slow without preconditioning.  
+
+2. Preconditioned CG (PCG)
+The Conjugate Gradient method is an efficient iterative solver for symmetric positive definite systems. Unlike Richardson, CG builds mutually conjugate search directions, leading to much faster convergence. The preconditioned version (PCG) further improves performance by reducing numerical difficulties and accelerating convergence by working on an invertible matrix P which well approximate A.  
+  
+
