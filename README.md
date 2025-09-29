@@ -9,6 +9,7 @@ This course covered fundamental and advanced topics in numerical methods, includ
 - Data approximation and interpolation techniques  
 - Numerical integration formulas  
 - Numerical methods for ordinary differential equations  
+
 Practical sessions were carried out in **MATLAB**, applying the introduced algorithms to real computational problems. Here in this repository different scripts can be found about the different algorrithm implementation
 
 ### FEM4MI 
