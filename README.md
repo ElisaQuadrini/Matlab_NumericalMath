@@ -14,7 +14,7 @@ Practical sessions were carried out in **MATLAB**, applying the introduced algor
 
 ## FEM4MI folder
 
-FEM4MI is a MATLAB educational code developed for the *Numerical Analysis* course in Mathematical Engineering.  It is not an official library, but a collection of scripts and functions that implement the Finite Element Method (FEM) in 1D. The code provides a simple framework for mesh generation, assembly of matrices and right-hand sides, application of boundary conditions, error analysis, and visualization, allowing students to practice and experiment with FEM algorithms in MATLAB. For more details on how the methods work, see the text file explanation in this repository.
+FEM4MI is a MATLAB educational code developed for the *Numerical Mathematics* course in Mathematical Engineering.  It is not an official library, but a collection of scripts and functions that implement the Finite Element Method (FEM) in 1D. The code provides a simple framework for mesh generation, assembly of matrices and right-hand sides, application of boundary conditions, error analysis, and visualization, allowing students to practice and experiment with FEM algorithms in MATLAB. For more details on how the methods work, see the text file explanation in this repository.
 
 ### FEM4MI_lab1 folder
 This is a practical example on how in this course I combined the study of ordinary differential equations (ODEs) with matrix-based numerical approximations.  
